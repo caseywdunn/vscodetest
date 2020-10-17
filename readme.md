@@ -19,25 +19,13 @@ Within VS Code, install the [Remote-Containers](https://marketplace.visualstudio
 
 ## Download and deploy this project
 
-### Windows
-
-In the VS Code command palette, `Ctrl+Shift+P` on Windows and `Cmd+Shift+P` on Mac. 
-
-Start typing and select `Remote-Containers: Open Repository in Container...`
-
-You will then be prompted to enter the url for this repository - https://github.com/caseywdunn/vscodetest .
-
-Click `+ Create a unique volume`. VS Code will then pull the repository and start the container. This may take a few minutes.
-
-### Mac
-
 Click the Source Control button on the left side of VS Code (the icon has three circles and a couple lines). 
 
 Then click Clone Repository. Then enter the url for this repository - https://github.com/caseywdunn/vscodetest .
 
 Select Repository Location. This is the place on your computer where the files will actually go.
 
-A few alerts may come up on the bottom right of your screen. Click through these, including `Reopen in Container`.
+A few alerts will come up on the bottom right of your screen. Click `Open`, and then `Reopen in Container`.
 
 You should now have the code on your computer, the custom VS Code settings for this project loaded, and a live container ready to the code.
 
