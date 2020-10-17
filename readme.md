@@ -4,9 +4,6 @@ I created this repo to learn the basics of python development in a container wit
 
 The goal is to get this machine learning demonstration running: https://www.tensorflow.org/tutorials/keras/classification
 
-
-[This video](https://www.youtube.com/watch?v=Uvf2FVS1F8k) gives a good overview of running code from a repo in a container, as we will do here.
-
 ## Preparation
 
 If you are using Windows 10, first install WSL2, the Windows Subsystem for Linux. Follow [this guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
