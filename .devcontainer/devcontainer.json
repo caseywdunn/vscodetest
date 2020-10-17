@@ -7,6 +7,7 @@
         "terminal.integrated.shell.linux": "/bin/bash"
 	},
 	"extensions": [
-		"ms-python.python"
+		"ms-python.python",
+		"streetsidesoftware.code-spell-checker"
 	]
 }
