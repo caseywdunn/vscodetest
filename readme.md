@@ -31,7 +31,7 @@ You should now have the code on your computer, the custom VS Code settings for t
 
 ## Running the code
 
-In the VS Code explorer, select `classification.ipynb`. Click the `Run all cells` button on the top left of the window. This will run the analysis.
+In the VS Code explorer (the top icon on the left side of VS Code), select `classification.ipynb`. Click the `Run all cells` button on the top left of the window. This will run the analysis.
 
 ## References
 
