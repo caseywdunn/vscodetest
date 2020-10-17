@@ -1,0 +1,12 @@
+{
+    "name": "PYTHON ENV",
+    "dockerFile": "Dockerfile",
+    "appPort": [8787],
+    "settings": {
+        "workbench.colorTheme": "Cobalt2",
+        "terminal.integrated.shell.linux": "/bin/bash"
+	},
+	"extensions": [
+		"ms-python.python"
+	]
+}
