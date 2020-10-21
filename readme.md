@@ -1,8 +1,8 @@
 # VS Code test
 
-I created this repo to learn the basics of python development in a container with vs code. 
+I created this repo to learn the basics of python development in a container with vs code.
 
-The goal is to get this machine learning demonstration running: https://www.tensorflow.org/tutorials/keras/classification
+The goal is to get this machine learning demonstration running: <https://www.tensorflow.org/tutorials/keras/classification>
 
 ## Preparation
 
@@ -36,9 +36,9 @@ In the VS Code explorer (the top icon on the left side of VS Code), select `clas
 
 Deployment:
 
-- https://www.youtube.com/watch?v=Uvf2FVS1F8k
+- <https://www.youtube.com/watch?v=Uvf2FVS1F8k>
 
 Development:
 
-- https://www.youtube.com/watch?v=fPtGgOJykTM&t=240s
-- https://code.visualstudio.com/docs/remote/containers
+- <https://www.youtube.com/watch?v=fPtGgOJykTM&t=240s>
+- <https://code.visualstudio.com/docs/remote/containers>
