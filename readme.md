@@ -12,15 +12,15 @@ Install [Docker Desktop](https://www.docker.com/get-started). If you are using W
 
 Install [VS Code](https://code.visualstudio.com/).
 
-Within VS Code, install the [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension. 
+Within VS Code, install the [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension.
 
 Download and install [git](https://git-scm.com/).
 
 ## Download and deploy this project
 
-Click the Source Control button on the left side of VS Code (the icon has three circles and a couple lines). 
+Click the Source Control button on the left side of VS Code (the icon has three circles and a couple lines).
 
-Then click Clone Repository. Then enter the url for this repository - https://github.com/caseywdunn/vscodetest .
+Then click Clone Repository. Then enter the url for this repository - <https://github.com/caseywdunn/vscodetest> .
 
 Select Repository Location. This is the place on your computer where the files will actually go.
 
@@ -35,6 +35,7 @@ In the VS Code explorer (the top icon on the left side of VS Code), select `clas
 ## References
 
 Deployment:
+
 - https://www.youtube.com/watch?v=Uvf2FVS1F8k
 
 Development:
