@@ -14,6 +14,8 @@ Install [VS Code](https://code.visualstudio.com/).
 
 Within VS Code, install the [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension. 
 
+Download and install [git](https://git-scm.com/).
+
 ## Download and deploy this project
 
 Click the Source Control button on the left side of VS Code (the icon has three circles and a couple lines). 
